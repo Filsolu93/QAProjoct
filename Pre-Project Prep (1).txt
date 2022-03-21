@@ -1,0 +1,57 @@
+REQUIREMENTS:
+
+Each student should have - 
+
+1. access to LMS and TFT Jira
+2. system ready to run Selenium/Java with all the tools required
+3. WhatsApp group created for there own QA team/name - tomorrow??
+4. personal email address for communication
+5. knowledge behind Selenium/Java, using Jira, Agile Scrum, SDLC, STLC, Defect life cycle, Git push/pull, Jenkins, AWS
+6. free time at least from 6pm - 10pm (4hrs) => 9:00PM meeting
+7. Zoom account to communicate with your QA team
+8. GitHub account - GitHub handle
+
+
+COMMITMENTS:
+
+Student needs to -
+
+1. commit to the Internship project
+2. commit to the individual QA team
+3. take this project seriously 
+4. find time to finish given project within specified time
+5. work together with team member to finish up the project
+
+
+
+ACHIVEMENTS:
+
+Student after completing project -
+
+1. will get references
+2. will get recommendations
+3. will get Confidence to go out there to face INTERVIEWS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

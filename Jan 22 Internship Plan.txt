@@ -1,0 +1,136 @@
+PROJECT NAME: TFT NextGen
+
+Project Goal: Modernization of transfotech primary application
+Web Appliction for Testing: https://transfotechacademy.com/
+
+######################
+Internship High Level:
+######################
+Start date: 1/8
+End date: 1/21
+
+****All Times are in Eastern Time Zone
+
+--------------
+Work schedule:
+--------------
+Mon-Fri => 6PM-10PM (4hr)
+Total clock hr for each team member => 40hr/member
+Team's combined effort => 8*40 => 320hrs
+
+-----
+Team:
+-----
+Total Resource: 
+Scrum Master (SM)/Product Owner (PO)/Project Manager (PM): Rabin Pradhan -> rabin2004@gmail.com
+
+--------
+QA Team: 
+--------
+1. Jubayer Hussain ->jubayerh@hotmail.com
+2. Sean Khatz ->seankhatz@gmail.com
+3. Akshay Patel ->Akshaypa1995@gmail.com
+4. Filmon Habtu ->Filars21@gmail.com 
+5. Patience Ngassang ->Pngassang@gmail.com
+6. Rashid Haque ->Haquerashidul@yahoo.com
+7. Roman Puri ->inigar32@gmail.com
+8. Gurkirat Singh -> er.gsdhillon88@gmail.com
+
+FRTech:
+1. Jubayer
+2. Sean: Lead
+3. Filmon
+4. Gurkirat
+
+Connect Tech:
+4. Roman
+5. Rashid
+6. Akshay
+7. Patience: Lead
+
+----------------------------
+Mode of Communication (MOC):
+----------------------------
+WhatsApp Group -> Internship Jan 22
+Email -> Project update/Daily Standup update
+Zoom -> Meetings/Video on
+
+-----
+Role: ?????
+-----
+1. LEAD: open communication/schedulling meetings/managing QA team/leading team
+2. Manual Test Lead: Jira/SDLC/Writing Test cases (Gherkin)
+3. Automation Test Lead: Automation script/Eclipse/Framework/Tools for automation
+4. Sprint Honour: Taking notes during the meeting then emailing it to entire team
+
+------
+Tools:
+------
+Manual Testing Tool:
+1. Jira = Project Management Tool/Defect Manangement Tool
+2. Zephyr = Test Management Tool
+3. User Story/Test script language - Gherkin
+
+Automation Testing Tool:
+1. Language - JAVA/Selenium
+2. OS - Windows/MacOs
+3. Testing tool - Selenium, TestNG, Cucumber, Basic Junit(Unit Testing)
+4. Build Manangement tool - Maven
+5. IDE (Script Editors) - Eclipse
+6. Code Version Control System - Git
+7. Central Repository - GitHub
+8. Framework - BDD (Behavioral Driven Development)
+
+--------------------------
+Meetings/Scrum Ceremonies:
+--------------------------
+1. Sprint Planning Meeting: 7-9 PM (Saturday & Sunday) -> planning this sprint/discussing future plan
+2. Daily Standup Meeting/Standup/Daily Scrum: 9-9:20 PM (20mins) -> What you did yesterday? What are you doing today? Any Blockers?
+2. Grooming Session: along with Sprint Planning/Daily Standup
+3. Demo Session: on Friday -> give demonstration regarding what we achieved in this Sprint
+4. Retrospective meeting: on Friday -> revisit the whole Sprint that just completed (What went Good?/What went Bad?/Any scope of Improvement?)
+
+RELEASE: 1.0
+#######################
+Intial Phase: Sprint 1
+#######################
+Sprint Goal:?
+1st week 
+1. Setting up Project in Jira
+2. Dividing Features to team
+3. Creating User Stories (US) & Acceptance Criteria (ACs)
+4. Create Sprint and define Start & End
+5. Define Project Goal
+6. Define Sprint Goal
+7. Define Team Goal
+8. Dividing Features to team
+9. Start Test cases (TCs) writing as well
+
+###############################
+Manual Testing Phase: Sprint 1
+###############################
+1st week 
+2nd week
+1. Define manual testing scope
+2. Continue test case writing & making sure complete test case mapping for the user story (Test Coverage)
+3. Manual Execution of test cases in Jira/Zephyr
+4. Defect writing/logging, Defect triage (Priority/Severity), Assigning Defect (=> Re-testing & Regression)
+5. Manual Execution Report
+6. Creating Automation Framework, hosting it in GitHub, Start working on automation script for the user stories
+
+###################################
+Automation Testing Phase: Sprint 2
+###################################
+Sprint Goal:?
+2nd week 
+1. Continue development of automation script to fully cover user story
+2. Execution of the entire automation script in local device (! remote execution, Cross Browser Testing)
+3. Automation execution report
+4. EXIT Report => Project Goal + Sprint Goal + Manual Execution Report + Automation Execution Report + Defect Status Report
+
+****************
+* RELEASE: 2.0 * on going optional process
+****************
+
+
+

@@ -1,0 +1,24 @@
+Software Tester Responsibilities:
+
+1. Analyze requirements****
+2. Explore the system and related software
+3. Understand the project plan and test plan
+4. Create own test plan
+5. Write test cases based on requirements and other items ****
+6. Get/generate test data
+7. Set up the test environment *
+8. Build automation ****
+9. Test system release by running test cases and tests
+10. Report defects to concerned people ****
+11. Create test logs
+12. Report test results to stakeholders
+13. Reply returned defect reports
+14. Re-test resolved defects ****
+15. Update/write new test cases
+16. Update automation
+17. Improve the test process
+18. Log time
+19. Raise issues with the system quality *****
+20. Learn how to test better *****
+
+

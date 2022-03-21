@@ -1,0 +1,40 @@
+
+Application: Web application (Website)
+1. Language - JAVA/Selenium - (Intermediate-level)
+2. OS - Windows/MacOs - Basic Unix commands/Command Prompt or Terminal
+
+3. Testing tool - Selenium Suite, TestNG, Cucumber, Basic Junit(Unit Testing)
+
+4. Build Manangement tool - Maven
+
+5. IDE (Script Editors) - Eclipse/(Intellij)
+
+6. Code Version Control System - Git
+7. Central Repository - GitHub
+
+8. CI/CD - Jenkins (CI tool)
+
+9. Test management tool & Tracking Bugs - JIRA
+10. Writing test cases/Executing Test - Zephyr plugin in JIRA
+
+11. Language for writing test cases - Gherkin
+
+12. Data Driven - Apache POI - excel files
+
+13. Back End testing - SQL queries (Oracle DB)
+
+14. Cloud - Oracle/AWS
+15. Remote Device - AWS
+
+16. Cross-browser/Cross-platform/Parallel Testing - Selenium Grid/Saucelab/TestNG
+
+17. SDLC Methodology - Agile Scrum/ knowlegdge of Waterfall
+
+18. Your role - Automation QA/ Manual testing = 20-30% manual/ 70-80% automation
+
+19. Types of Testing - Functional Testing / not non-functional testing (+Performance Testing/API Testing)
+
+20. Reporting - Agile (Jira/Zephyr)/ Reports from Automation (percentage of passing)
+
+
+********Research - HP ALM/HP UFT***********
